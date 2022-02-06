@@ -1,5 +1,5 @@
 # uGUI_SpriteNumber
 uGUI Show Sprite Numbers
 
-![ImageExample](blob/main/Images/example.png)
+![ImageExample](https://github.com/jp-netsis/uGUI_SpriteNumber/blob/main/Images/example.png)
 
