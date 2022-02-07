@@ -125,6 +125,7 @@ namespace jp.netsis.Utility
             var rectTrans = instance.GetComponent<RectTransform>();
             var image = instance.GetComponent<Image>();
             instance.transform.localScale = Vector3.one;
+            instance.transform.localRotation = Quaternion.identity;
             spriteSize.x = sprite.rect.width;
             spriteSize.y = sprite.rect.height;
             rectTrans.anchorMin = new Vector2(0f, 0f);
